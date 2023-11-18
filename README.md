@@ -9,6 +9,6 @@ Restructuring data and defining new default criteria
 
 - Building Predictive Models for Default Prediction
 
-Once the data is restructured and new default criteria are defined, we can build predictive models to identify clients at risk of default. This involves selecting relevant features, training the model on historical data, and evaluating its performance.
+    Once the data is restructured and new default criteria are defined, we can build predictive models to identify clients at risk of default. This involves selecting relevant              features, training the model on historical data, and evaluating its performance.
 
-The predictive models will allow us to proactively identify clients at risk of default, enabling timely interventions and risk mitigation strategies.
+    The predictive models will allow us to proactively identify clients at risk of default, enabling timely interventions and risk mitigation strategies.
