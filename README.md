@@ -1,4 +1,4 @@
-# creditone_taiwan
+# Solving critical situation business, with analysis and predictive modeling
 Restructuring data and defining new default criteria
 
 - To effectively predict client defaults, we must first restructure the available data and establish new default criteria. This involves:
